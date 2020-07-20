@@ -496,9 +496,7 @@ void main(void)
 			  {
 			  cout<<"\n\n        About Me";
 			  cout<<"\n\nName     :  Shashi kumar sah";
-			  cout<<"\n\nCollege  :  A.R.S.D College";
-			  cout<<"\n\nCourse   :  Bsc(H) Computer Science";
-			  cout<<"\n\nEmail    :  shashichander007@yahoo.com";
+			  cout<<"\n\nEmail    :  shashichander009@gmail.com";
 
 			  getch();
 			  }
